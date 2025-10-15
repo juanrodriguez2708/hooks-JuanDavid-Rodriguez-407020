@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Activity Results</string>
+    <string name="header_text_main">Haga clic en el botón a continuación para elegir su color favorito del arcoíris.!</string>
+    <string name="header_text_picker">Colores del arcoiris</string>
+    <string name="footer_text_picker">Haz clic en el botón de arriba que corresponde a tu color favorito del arcoíris.</string>
+    <string name="color_chosen_message">%s is your favorite color!
+    </string>
+    <string name="submit_button_text">ELIGE UN COLOR</string>
+    <string name="red">RED</string>
+    <string name="orange">ORANGE</string>
+    <string name="yellow">YELLOW</string>
+    <string name="green">GREEN</string>
+    <string name="blue">BLUE</string>
+    <string name="indigo">INDIGO</string>
+    <string name="violet">VIOLET</string>
+    <string name="unexpected_color">Unexpected color</string>
+    <string name="title_activity_color_picker">
+ColorPickerActivity</string>
+</resources>
