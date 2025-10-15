@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hooks2</string>
+    <string name="generate_random_number">Generar número aleatorio</string>
+    <string name="random_number_message">Número generado: %1$d</string>
+</resources>
